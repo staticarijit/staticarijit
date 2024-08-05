@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staticarijit&label=Profile%20views&color=0e75b6&style=flat" alt="staticarijit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="right"><img alt="image" width="400" src="Launch Code.gif"/></p>
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **arijitmondal262@gmail.com**
