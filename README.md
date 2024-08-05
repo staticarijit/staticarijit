@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img class="output" src="https://github-readme-stats.vercel.app/api?username=staticarijit&amp;theme=blueberry&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="github stats"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staticarijit&" alt="staticarijit" /></p>
+<p><img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=staticarijit&amp;theme=blueberry&amp;hide_border=false" alt="github streak"></p>
