@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Arijit Mondal</h3>
-<h5 align="center">A passionate frontend developer from India...</h5>
+<h5 align="center">A detail-oriented software engineer from India...</h5>
 <img align="right" alt="Coding" width="100" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
 
