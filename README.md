@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arijit Mondal</h1>
+<h3 align="center">Hi 👋, I'm Arijit Mondal</h3>
 <h3 align="center">A passionate frontend developer from India...</h3>
 <img align="right" alt="Coding" width="100" src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif">
 
